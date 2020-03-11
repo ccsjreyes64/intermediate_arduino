@@ -1,0 +1,2 @@
+# ReadThis
+My CircuitPython assignments
